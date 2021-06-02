@@ -17,9 +17,9 @@ X, Y-axis represents centric features and frontier features of the images after 
 
 ![](Images/P-DenseCov.png)
 
-# Contributor:
+# Contributors:
 
 
-Farhan Sadik          E-mail:farhansadikayon@gmail.com
-Ankan Ghosh Dastider  E-mail:ankanghoshdastider@gmail.com 
-Mohseu Rashid Subah   E-mail:mohseurashid@gmail.com
+Farhan Sadik ,         E-mail:farhansadikayon@gmail.com <br>
+Ankan Ghosh Dastider;  E-mail:ankanghoshdastider@gmail.com <br>
+Mohseu Rashid Subah,   E-mail:mohseurashid@gmail.com<br>
