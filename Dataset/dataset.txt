@@ -24,5 +24,6 @@ Link: https://zenodo.org/record/3757476#.YLernqgzaUk
  radiopaedia_4_85506_1.nii.gz
  radiopaedia_7_85703_0.nii.gz
  
- 
- 
+ # Dataset used for classification:
+Link: http://ncov-ai.big.ac.cn/download?fbclid=IwAR3HuSu-dxre8Tm8MTVip9LUvh2_rlVqGgrTTJgkhjU7o5-R7mLjRTIkhfM
+
