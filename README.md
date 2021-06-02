@@ -16,10 +16,10 @@ X, Y-axis represents centric features and frontier features of the images after 
 # Classification Architecture:
 
 ![](Images/P-DenseCov.png)
-
+--->
 # Contributors:
 
---->
+
 Farhan Sadik ,         E-mail:farhansadikayon@gmail.com <br>
 Ankan Ghosh Dastider;  E-mail:ankanghoshdastider@gmail.com <br>
 Mohseu Rashid Subah,   E-mail:mohseurashid@gmail.com<br>
