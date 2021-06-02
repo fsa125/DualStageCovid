@@ -10,4 +10,16 @@ In  the  Coronavirus  disease-2019  (COVID-19)  pandemic,  for  fast  and  accur
 ![](Images/SKICU-Net.jpg)
 
 # Unsupervised hierarchical Clustering:
-X,Y axis represent centric features and frontier features of the images after performing segmentation.
+X, Y-axis represents centric features and frontier features of the images after performing segmentation. Binary masks were used to extract these features. Z-axis represents the area of the lung portion that is visible in the CT scan.
+![](Images/Cluster.jpg)
+
+# Classification Architecture:
+
+![](Images/P-DenseCov.png)
+
+# Contributor:
+
+
+Farhan Sadik          E-mail:farhansadikayon@gmail.com
+Ankan Ghosh Dastider  E-mail:ankanghoshdastider@gmail.com 
+Mohseu Rashid Subah   E-mail:mohseurashid@gmail.com
